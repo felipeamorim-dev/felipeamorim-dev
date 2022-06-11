@@ -1,5 +1,7 @@
-### Olá, sou Feliep Amorim 👋
-###### Desenvolvedor de software pela NTTDATA Brasil
+
+![Alt text](https://github.com/felipeamorim-dev/felipeamorim-dev/blob/main/header.png)
+
+###### Desenvolvedor de software pela NTTDATA Brasil 👋
 
 - 🔭 Apaixonado por tecnologia
 - 🌱 Formado em Física
